@@ -17,7 +17,7 @@ import com.chentosforo.model.Persona;
 import com.chentosforo.service.PersonaService;
 
 @RestController
-@RequestMapping("/personas/")
+@RequestMapping("/personas/pruebas")
 public class PersonaController {
 
 	@Autowired
